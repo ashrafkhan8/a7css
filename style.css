@@ -1,10 +1,6 @@
-html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
-
-
 /* container */
+html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 .a7-container,.a7-panel{padding:0.01em 16px}.a7-panel{margin-top:16px;margin-bottom:16px}
-
-
 
 /* color attributes */
 .a7-red{color:red;}
@@ -35,6 +31,7 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 .a7-teal{color:teal;}
 .a7-tan{color:tan;}
 .a7-Salmon{color:Salmon;}
+
 
 /* background colors */
 .a7-bg-red{background-color:red;}
@@ -68,4 +65,98 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 
 
 
-/* buttons  */
+/* border color */
+.a7-border-red{border-color:red;}
+.a7-border-blue{border-color:blue;}
+.a7-border-green{border-color:green;}
+.a7-border-brown{border-color:brown;}
+.a7-border-pink{border-color:pink;}
+.a7-border-yellow{border-color:yellow;}
+.a7-border-orange{border-color:orange;}
+.a7-border-grey{border-color:grey;}
+.a7-border-gold{border-color:gold;}
+.a7-border-silver{border-color:silver;}
+.a7-border-white{border-color:white;}
+.a7-border-purple{border-color:purple;}
+.a7-border-black{border-color:black;}
+.a7-border-cyan{border-color:cyan;}
+.a7-border-azure{border-color:azure;}
+.a7-border-maroon{border-color:maroon;}
+.a7-border-lime{border-color:lime;}
+.a7-border-coral{border-color:coral;}
+.a7-border-turquoise{border-color:turquoise;}
+.a7-border-lavender{border-color:lavender;}
+.a7-border-magenta{border-color:magenta;}
+.a7-border-olive{border-color:olive;}
+.a7-border-navy{border-color:navy;}
+.a7-border-skyblue{border-color:skyblue;}
+.a7-border-lightgrey{border-color:lightgrey;}
+.a7-border-teal{border-color:teal;}
+.a7-border-tan{border-color:tan;}
+.a7-border-Salmon{border-color:Salmon;}
+
+/* CSS Border Style */
+.a7-border-solid{border-style: solid; }
+.a7-border-dotted{border-style: dotted; }
+.a7-border-dashed{border-style:dashed; }
+.a7-border-double{border-style: double; }
+.a7-border-groove{border-style: groove; }
+.a7-border-ridge{border-style: ridge; }
+.a7-border-inset{border-style: inset;}
+.a7-border-outset{border-style: outset; }
+.a7-border-none{border-style: none; }
+.a7-border-hidden{border-style: hidden;}
+
+/* CSS Border Style borders */
+.a7-border{border-style: solid;}
+.a7-border-left{border-left-style: solid;}
+.a7-border-right{border-right-style: solid;}
+.a7-border-top{border-top-style: solid;}
+.a7-border-bottom{border-bottom-style: solid;}
+
+.a7-border-left-dotted{border-left-style: dotted;}
+.a7-border-right-dotted{border-right-style: dotted;}
+.a7-border-top-dotted{border-top-style: dotted;}
+.a7-border-bottom-dotted{border-bottom-style: dotted;}
+
+.a7-border-left-dashed{border-left-style: dashed;}
+.a7-border-right-dashed{border-right-style: dashed;}
+.a7-border-top-dashed{border-top-style: dashed;}
+.a7-border-bottom-dashed{border-bottom-style: dashed;}
+
+.a7-border-left-double{border-left-style: double;}
+.a7-border-right-double{border-right-style: double;}
+.a7-border-top-double{border-top-style: double;}
+.a7-border-bottom-double{border-bottom-style: double;}
+
+.a7-border-left-groove{border-left-style: groove;}
+.a7-border-right-groove{border-right-style: groove;}
+.a7-border-top-groove{border-top-style: groove;}
+.a7-border-bottom-groove{border-bottom-style: groove;}
+
+.a7-border-left-ridge{border-left-style: ridge;}
+.a7-border-right-ridge{border-right-style: ridge;}
+.a7-border-top-ridge{border-top-style: ridge;}
+.a7-border-bottom-ridge{border-bottom-style: ridge;}
+
+.a7-border-left-inset{border-left-style: inset;}
+.a7-border-right-inset{border-right-style: inset;}
+.a7-border-top-inset{border-top-style: inset;}
+.a7-border-bottom-inset{border-bottom-style: inset;}
+
+.a7-border-left-outset{border-left-style: outset;}
+.a7-border-right-outset{border-right-style: outset;}
+.a7-border-top-outset{border-top-style: outset;}
+.a7-border-bottom-outset{border-bottom-style: outset;}
+
+.a7-border-left-none{border-left-style: none;}
+.a7-border-right-none{border-right-style: none;}
+.a7-border-top-none{border-top-style: none;}
+.a7-border-bottom-none{border-bottom-style: none;}
+
+/* border radius */
+.a7-border-small {border-radius: 4px; padding: 5px;}
+.a7-border-round{border-radius: 8px; padding: 5px;}
+.a7-border-large{border-radius: 16px; padding: 5px;}
+.a7-border-xlarge{border-radius: 24px; padding: 5px;}
+.a7-border-xxlarge{border-radius: 32px; padding: 5px;}
